@@ -1,0 +1,5 @@
+5001|Black Leather Heels|Size: 7, Color: Black|900|1
+5002|White Sneakers|Size: 8, Color: White|800|1
+5003|Red Ballet Flats|Size: 6, Color: Red|700|1
+5004|Blue Wedge Sandals|Size: 9, Color: Blue|1000|1
+5005|Pink Slippers|Size: 7, Color: Pink|600|1

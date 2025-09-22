@@ -1,0 +1,5 @@
+4001|Pink Floral Frock|Size: Small, Color: Pink|1200|1
+4002|Blue Party Frock|Size: Medium, Color: Blue|1500|1
+4003|Yellow Summer Frock|Size: Large, Color: Yellow|1100|1
+4004|White Lace Frock|Size: Small, Color: White|1300|1
+4005|Red Polka Dot Frock|Size: Medium, Color: Red|1400|1

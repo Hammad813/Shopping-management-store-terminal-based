@@ -1,0 +1,6 @@
+3001|Navy Blue 3-Piece Suit|Includes Coat, Vest, Pants|2000|1
+3002|Black Tuxedo Suit|Includes Coat, Pants, Bowtie|2500|1
+3003|Gray Slim Fit Suit|Includes Coat, Pants|1800|1
+3004|Brown Tweed Suit|Includes Coat, Pants|2200|1
+3005|Blue Pinstripe Suit|Includes Coat, Pants|1900|1
+22222|Bata sandak|123456|1200|0
