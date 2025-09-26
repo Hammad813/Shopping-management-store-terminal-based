@@ -1,5 +1,0 @@
-6001|Gold Necklace Set|Includes Necklace, Earrings|3000|1
-6002|Silver Bracelet Set|Includes Bracelet, Ring|2500|1
-6003|Pearl Earrings Set|Includes Earrings, Hairpin|2800|1
-6004|Diamond Pendant Set|Includes Pendant, Chain|3500|1
-6005|Ruby Bangle Set|Includes Bangles, Anklet|3200|1

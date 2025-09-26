@@ -1,7 +1,0 @@
-2001|Gray Cotton T-Shirt|Size: Small, Color: Gray|700|1
-2002|White Linen Shirt|Size: Medium, Color: White|750|1
-2003|Blue Denim Shirt|Size: Large, Color: Blue|800|1
-2004|Black Polo T-Shirt|Size: Small, Color: Black|720|1
-2005|Red Checkered Shirt|Size: Large, Color: Red|780|1
-312421|asd|asf afad adsf|2423|0
-90001|Polo black|1234|2000|1

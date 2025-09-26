@@ -1,6 +1,0 @@
-1001|cotton pant|large , black|800|1
-1002|Black Denim Pant|Size: Medium, Color: Black|750|1
-1003|Blue Jeans Pant|Size: Large, Color: Blue|800|1
-1004|Beige Chino Pant|Size: Small, Color: Beige|720|1
-1005|Khaki Cargo Pant|Size: Large, Color: Khaki|780|1
-333|Long|lofi|1200|1
